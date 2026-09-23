@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
