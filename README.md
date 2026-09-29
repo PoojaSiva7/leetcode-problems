@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/PoojaSiva7/leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
